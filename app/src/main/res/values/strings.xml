@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator</string>
+    <string name="add">+</string>
+    <string name="text_input_number">Masukkan dua angka</string>
+    <string name="input_first_number">Masukkan angka pertama</string>
+    <string name="subtract">-</string>
+    <string name="mulitply">X</string>
+    <string name="divide">/</string>
+    <string name="reset">BERSIHKAN</string>
+    <string name="text_result">HASIL</string>
+</resources>
